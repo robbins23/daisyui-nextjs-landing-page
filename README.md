@@ -1,5 +1,5 @@
 
-![Logo](https://ik.imagekit.io/vu5t8xb15vzcx/M_akhjB4K1-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677436748377)
+![Logo](https://ik.imagekit.io/vu5t8xb15vzcx/tr:h-100/M_akhjB4K1-.png?ik-sdk-version=javascript-1.4.3&updatedAt=1677436748377)
 
 ## Daisy UI Next JS Landing Page Template 
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
