@@ -1,5 +1,4 @@
 import Footer from "./Footer";
-import Header from "./Header";
 import Navbar from "./Navbar";
 import Link from 'next/link'
 import Bars3Icon  from '@heroicons/react/24/outline/Bars3Icon'
@@ -15,8 +14,6 @@ export default function Layout({ children }) {
 
   return (
     <>
-      <Header />
-
       <div className="drawer">
           <input id="my-drawer-3" type="checkbox" className="drawer-toggle" /> 
           <div className="drawer-content flex flex-col">
