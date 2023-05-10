@@ -1,5 +1,6 @@
 {
-  "name": "app_guserguide",
+  "name": "tailwind_landing_page",
+  "description": "Landing page using next js, tailwind css and daisy UI. Template uses rich tailwind css utility classes and have components of daisy UI.",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -7,6 +8,23 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srobbin01/daisyui-nextjs-landing-page"
+  },
+  "keywords": [
+    "reactjs",
+    "tailwind-css",
+    "landing-page",
+    "daisyui-template",
+    "landing=page-template",
+    "nextjs"
+  ],
+  "author": "srobbin01",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srobbin01/daisyui-nextjs-landing-page/issues"
   },
   "dependencies": {
     "@heroicons/react": "^2.0.15",
