@@ -19,9 +19,10 @@ A free landing page template using **Daisy UI** and Next JS. With the help of Da
 
 ## Features
 
-- **Light/dark** mode toggle
 - **Next Js** for SEO friendly
+- **Pricing** and Feature Page
 - **Daisy UI** components and **Tailwind** support
+- **Analytics** and other libraries configured
 
 
 ## Installation

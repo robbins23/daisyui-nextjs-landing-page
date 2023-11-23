@@ -1,3 +1,26 @@
 @import 'tailwindcss/base';
 @import 'tailwindcss/components';
 @import 'tailwindcss/utilities';
+
+
+.compareImg{
+    height: 300px;
+}
+
+body{
+    color : "#252524" !important;
+}
+
+.btn-primary {
+    color : white !important;
+}
+
+.btn-outline:hover {
+    background:  "#16564d"
+}
+.menu li > *:not(ul):not(.menu-title):not(details).active{
+    color : white !important;
+    background: #e8b333
+}
+
+
