@@ -36,7 +36,7 @@
     "eslint": "8.34.0",
     "eslint-config-next": "13.1.6",
     "mixpanel-browser": "^2.48.1",
-    "next": "13.1.6",
+    "next": "^14.0.3",
     "nextjs-google-analytics": "^2.3.3",
     "react": "18.2.0",
     "react-dom": "18.2.0",

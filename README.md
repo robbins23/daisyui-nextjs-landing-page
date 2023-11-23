@@ -48,6 +48,14 @@ Go to project directory and run (make sure you have node installed first)
 [Live preview](https://daisyui-nextjs-landing-page.vercel.app/)
 
 
+## Page Examples
+
+|                          |                               |
+:-------------------------:|:-------------------------:
+![Login Page](https://ik.imagekit.io/vu5t8xb15vzcx/Screenshot%202023-11-23%20at%203.54.13%20PM_Rmidhi5Lk.png?updatedAt=1700735336477) | ![Pricing Page](https://ik.imagekit.io/vu5t8xb15vzcx/Screenshot%202023-11-23%20at%203.58.11%20PM_bOAmz0lkh.png?updatedAt=1700735336115) 
+![About Us Page](https://ik.imagekit.io/vu5t8xb15vzcx/Screenshot%202023-11-23%20at%203.58.28%20PM_Iq6KCzMfh.png?updatedAt=1700735335834) | ![Profile Page](https://ik.imagekit.io/vu5t8xb15vzcx/Screenshot%202023-11-23%20at%203.58.37%20PM_7Ewqbd5N_.png?updatedAt=1700735335793) 
+
+
 ## Contributing
 
 Contributions are always welcome!
